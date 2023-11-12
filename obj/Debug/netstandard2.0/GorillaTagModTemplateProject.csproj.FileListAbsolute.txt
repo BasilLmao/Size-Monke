@@ -1,0 +1,5 @@
+C:\Users\basil\Downloads\GorillaTagModTemplate-master (1)\GorillaTagModTemplate-master\src\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\GorillaTagModTemplateProject.csproj.AssemblyReference.cache
+C:\Users\basil\Downloads\GorillaTagModTemplate-master (1)\GorillaTagModTemplate-master\src\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\GorillaTagModTemplateProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\Downloads\GorillaTagModTemplate-master (1)\GorillaTagModTemplate-master\src\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\GorillaTagModTemplateProject.AssemblyInfoInputs.cache
+C:\Users\basil\Downloads\GorillaTagModTemplate-master (1)\GorillaTagModTemplate-master\src\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\GorillaTagModTemplateProject.AssemblyInfo.cs
+C:\Users\basil\Downloads\GorillaTagModTemplate-master (1)\GorillaTagModTemplate-master\src\Content\GorillaTagModTemplateProject\obj\Debug\netstandard2.0\GorillaTagModTemplateProject.csproj.CoreCompileInputs.cache
