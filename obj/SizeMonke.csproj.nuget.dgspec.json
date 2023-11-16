@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\basil\\Downloads\\GorillaTagModTemplate-master (1)\\GorillaTagModTemplate-master\\src\\Content\\GorillaTagModTemplateProject\\SizeMonke.csproj": {}
+    "C:\\Users\\basil\\OneDrive\\Documents\\GitHub\\Size-Monke\\SizeMonke.csproj": {}
   },
   "projects": {
-    "C:\\Users\\basil\\Downloads\\GorillaTagModTemplate-master (1)\\GorillaTagModTemplate-master\\src\\Content\\GorillaTagModTemplateProject\\SizeMonke.csproj": {
+    "C:\\Users\\basil\\OneDrive\\Documents\\GitHub\\Size-Monke\\SizeMonke.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\basil\\Downloads\\GorillaTagModTemplate-master (1)\\GorillaTagModTemplate-master\\src\\Content\\GorillaTagModTemplateProject\\SizeMonke.csproj",
+        "projectUniqueName": "C:\\Users\\basil\\OneDrive\\Documents\\GitHub\\Size-Monke\\SizeMonke.csproj",
         "projectName": "SizeMonke",
-        "projectPath": "C:\\Users\\basil\\Downloads\\GorillaTagModTemplate-master (1)\\GorillaTagModTemplate-master\\src\\Content\\GorillaTagModTemplateProject\\SizeMonke.csproj",
+        "projectPath": "C:\\Users\\basil\\OneDrive\\Documents\\GitHub\\Size-Monke\\SizeMonke.csproj",
         "packagesPath": "C:\\Users\\basil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\basil\\Downloads\\GorillaTagModTemplate-master (1)\\GorillaTagModTemplate-master\\src\\Content\\GorillaTagModTemplateProject\\obj\\",
+        "outputPath": "C:\\Users\\basil\\OneDrive\\Documents\\GitHub\\Size-Monke\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\basil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
